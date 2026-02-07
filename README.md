@@ -21,10 +21,7 @@ A Streamlit web application that predicts diabetes risk using machine learning b
 ## Installation
 
 1. Clone or download this repository
-2. Navigate to the project folder:
-   ```bash
-   cd "c:\Users\Supriya\Downloads\GITHUB\prediction model"
-   ```
+2. Navigate to your project folder
 3. Install dependencies:
    ```bash
    pip install -r requirements.txt
